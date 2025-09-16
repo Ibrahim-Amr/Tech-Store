@@ -1,16 +1,47 @@
-# untitled
+# Tech Store - Flutter E-Commerce App
 
-A new Flutter project.
+A modern and fully-featured e-commerce mobile application built with Flutter, designed specifically for tech products and laptops.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- **Modern UI/UX**: Beautiful dark theme design with smooth animations
+- **Product Catalog**: Browse laptops with detailed specifications
+- **Favorites System**: Save products to your wishlist
+- **Shopping Cart**: Add/remove items with quantity management
+- **Checkout Process**: Complete order placement with payment information
+- **API Integration**: RESTful API connectivity with Dio
+- **Local Storage**: Persistent data using SharedPreferences
+- **State Management**: Efficient state handling with Provider
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Framework**: Flutter 3.0+
+- **Language**: Dart
+- **State Management**: Provider
+- **HTTP Client**: Dio
+- **Local Storage**: SharedPreferences
+- **Animation**: Flutter Native Animations
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screens
+
+- Splash Screen with animations
+- Home Screen with product listing
+- Product Detail Screen with specifications
+- Favorites Screen
+- Shopping Cart Screen
+- Checkout Screen
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK 3.0 or higher
+- Dart 3.0 or higher
+- Android Studio or VS Code
+- iOS simulator or Android emulator
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/techstore-flutter.git
