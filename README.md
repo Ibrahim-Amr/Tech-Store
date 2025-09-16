@@ -44,4 +44,4 @@ A modern and fully-featured e-commerce mobile application built with Flutter, de
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/techstore-flutter.git
+git clone https://github.com/Ibrahim-Amr/Tech-Store.git
